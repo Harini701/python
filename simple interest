@@ -1,0 +1,10 @@
+def SimpleInterest(P,N,R):
+    SI=(P*N*R)/100
+    return SI
+P=int(input("Enter the principal amount: "))
+N=int(input("Enter the number of years: "))
+R=float(input("Enter the rate of interest: "))
+
+SI=SimpleInterest(P,N,R)
+
+print("Simple Interest : ",SI)
