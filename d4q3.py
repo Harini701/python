@@ -10,5 +10,3 @@ def dec_sq_cube(n):
 
 n=float(input("ENTER THE NUMBER:"))
 dec_sq_cube(n)
-Footer
-© 2022 GitHub, Inc.
